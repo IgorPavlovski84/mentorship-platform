@@ -8,3 +8,4 @@
 - Javascript = Native
 - Jquery = No
 - Responsivness = css flexbox
+- lice access:  https://igorpavlovski84.github.io/mentorship-platform/
